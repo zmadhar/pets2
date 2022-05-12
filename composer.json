@@ -1,0 +1,13 @@
+{
+  "name": "zmadhar/328/pets2",
+  "authors": [
+    {
+      "name": "zahra madhar",
+      "email": "zamadhar@gmail.com"
+    }
+
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
