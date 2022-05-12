@@ -46,6 +46,6 @@ $f3->route('POST /summary', function() {
     echo $view->render('views/OrderSummary.html');
 });
 
-//Run fat free
+//fat free
 $f3->run();
 
